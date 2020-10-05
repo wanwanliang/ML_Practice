@@ -1,6 +1,7 @@
 <div align="center"><h1> Machine learning Projects</h1></div>
 
 <div align="center"><h2>Table of Content</h2></div>
+<h3> <a href="/Data_Preprocessing.ipynb"> 0. Data Preprocessing </a> </h3>
 <h3> <a href="/Linear_Models.ipynb"> 1. Linear Models </a> </h3>
 <h3> <a href="/The_Machine_Learning_Landscape.ipynb"> 2. Machine Learning Landscape </a>  </h3>
 <h3> <a href="/Classification_Intro.ipynb"> 3. Classification Introduction </a> </h3>
