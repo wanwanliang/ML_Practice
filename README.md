@@ -12,7 +12,7 @@
 <h3> <a href="/Unsupervised_Learning.ipynb"> 8. Unsupervised Learning </a> </h3> 
 
 
-<br/><br/>
+<br/>
 
 ![Machine Learning](/clustering.PNG)
 
