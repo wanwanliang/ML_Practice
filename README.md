@@ -1,4 +1,4 @@
-<div align="center"><h1> Machine learning Projects</h1></div>
+<div align="center"><h1> Machine Learning Projects</h1></div>
 
 <div align="center"><h2>Table of Content</h2></div>
 <h3> <a href="/Data_Preprocessing.ipynb"> 0. Data Preprocessing </a> </h3>
