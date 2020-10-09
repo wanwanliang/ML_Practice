@@ -16,7 +16,7 @@
 
 ![Machine Learning](/clustering.PNG)
 
-Reference
+Reference <br/>
 Aurelien Geron's Excellent Book (2nd edition): Hands-on ML with Sklearn, Keras, and TF <br/>
 https://github.com/ageron/handson-ml2
 
