@@ -10,7 +10,9 @@
 <h3> <a href="/notebook/EnsembleLearning_and_RandomForests.ipynb"> 6. Ensemble Learning and Random Forests </a> </h3>
 <h3> <a href="/notebook/Dimension_Reduction.ipynb"> 7. Dimension Reduction </a>  </h3>
 <h3> <a href="/notebook/Unsupervised_Learning.ipynb"> 8. Unsupervised Learning </a> </h3> 
-<h3> <a href="/notebook/Neural_network_intro.ipynb"> 9. Neural Network Intro </a> </h3> 
+<h3> <a href="/notebook/Feature_Selection.ipynb"> 9. Feature Selection </a> </h3>
+<h3> <a href="/notebook/Neural_network_intro.ipynb"> 10. Neural Network Intro </a> </h3> 
+
 
 <br/>
 
