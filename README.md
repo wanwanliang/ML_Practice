@@ -11,7 +11,8 @@
 <h3> <a href="/notebook/Dimension_Reduction.ipynb"> 7. Dimension Reduction </a>  </h3>
 <h3> <a href="/notebook/Unsupervised_Learning.ipynb"> 8. Unsupervised Learning </a> </h3> 
 <h3> <a href="/notebook/Feature_Selection.ipynb"> 9. Feature Selection </a> </h3>
-<h3> <a href="/notebook/Neural_network_intro.ipynb"> 10. Neural Network Intro </a> </h3> 
+<h3> <a href="/notebook/Data_Visualization_and_Fill_NA_by_Supervised_Method.ipynb"> 10. Data Preprocessing - Visualization and Filling NA with Supervised Method </a> </h3> 
+<h3> <a href="/notebook/Neural_network_intro.ipynb"> 11. Neural Network Intro </a> </h3> 
 
 
 <br/>
