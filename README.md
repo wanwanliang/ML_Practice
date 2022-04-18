@@ -14,7 +14,7 @@
 <h3> <a href="/notebook/Data_Visualization_and_Fill_NA_by_Supervised_Method.ipynb"> 10. Data Preprocessing - Visualization and Filling NA with Supervised Method </a> </h3> 
 <h3> <a href="/notebook/Neural_network_intro.ipynb"> 11. Neural Network Intro </a> </h3> 
 <h3> <a href="/notebook/DL_Transfer_Learning.ipynb"> 12. Transfer Learning </a> </h3> 
-
+<h3> <a href='https://github.com/wanwanliang/ML_Projects/blob/main/One%20way%20to%20fine%20tune%20model%20parameter'> 13. One way to fine-tune model paramter </a> </h3> 
 
 <br/>
 
