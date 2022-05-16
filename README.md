@@ -15,8 +15,7 @@
 <h3> <a href="/notebook/Neural_network_intro.ipynb"> 11. Neural Network Intro </a> </h3> 
 <h3> <a href="/notebook/DL_Transfer_Learning.ipynb"> 12. Transfer Learning </a> </h3> 
 <h3> <a href='https://github.com/wanwanliang/ML_Projects/blob/main/One%20way%20to%20fine%20tune%20model%20parameter'> 13. One way to fine-tune model paramter </a> </h3> 
-<h3> <a href='https://github.com/wanwanliang/ML_Projects/blob/main/notebook/Compare_mulitple_ML_models.ipynb'> 14. Code to run/compare multiple machine learning models </a> </h3> 
-
+<h3> <a href='https://github.com/wanwanliang/ML_Projects/blob/main/notebook/ML_soil_concentration_code_with_LiDong.ipynb'> 14. Code to run/compare multiple machine learning models </a> </h3> 
 
 <br/>
 
